@@ -1,1 +1,2 @@
-# Template_Thesis
+# thesis-template-master
+BA-Thesis
